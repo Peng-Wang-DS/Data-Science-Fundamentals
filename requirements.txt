@@ -1,0 +1,16 @@
+ipykernel
+awscli
+s3fs
+botocore
+pandas
+numpy
+matplotlib
+scikit-learn
+sagemaker
+protobuf
+plotly
+nbformat
+optuna
+seaborn
+# brew install libomp
+xgboost
